@@ -1,7 +1,7 @@
-# Real-time-price-compare
+# Real-time-Sales-compare
 **NOTE- Please update the Class tag and ID tag.
 
-Most sites that compare the price of products on different e-commerce websites tend to store data in database/json files which makes a price comparison site pretty heavy.
+Most sites that compare the price of products on different Factories/Godowns/Warehouses, tend to store data in database/json files which makes a price comparison site pretty heavy.
 <br>
 This project provides the Real time analysis of products on flipkart and amazon. It uses web scraping to extract data and deploy without using databases or json files.
 <h1> Requirements </h1>
